@@ -24,7 +24,7 @@ Before running this script, ensure you have the following installed:
    You can install the required libraries using pip:
 
    ```bash
-   pip install psycopg2-binary faker
+   pip3 install psycopg2-binary faker
    ```
 
 ## Services in the Compose File
